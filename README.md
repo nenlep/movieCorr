@@ -1,3 +1,3 @@
 # movieCorr
-Movie Correlation Analaysis to understand which columns have the highest correlation with a movie's gross revenue.
+Python Movie Correlation Analaysis using Jupyter Notebook to understand which columns (rating,genre,year,released,score,votes,director,writer,star,country,budget,company,runtime) have the highest correlation with a movie's gross revenue.
 Dataset source: https://www.kaggle.com/datasets/danielgrijalvas/movies
